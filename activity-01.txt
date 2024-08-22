@@ -1,4 +1,4 @@
 Marc Zapata
 BSIT
 Centro Escolar University - Malolos
-Add PRIN135,PRIN135L
+Add PRIN135 (Web Systems and Technology Lecture), PRIN135L(Web Systems and Technology Lab)
